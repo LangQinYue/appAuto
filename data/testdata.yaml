@@ -1,0 +1,53 @@
+搜索框:  
+    ID,//*[@id="kw"]
+百度一下:  
+    ID,su
+setButton:
+    XPATH,.//*[@id='u1']/a[8]
+hao123:
+    lINK_TEXT,hao123
+登录:
+    lINK_TEXT,登录
+user:
+    XPATH,//*[@id="TANGRAM__PSP_8__userName"]
+password:
+    XPATH,//*[@id="TANGRAM__PSP_8__password"]
+登录按钮:
+    XPATH,//*[@id="TANGRAM__PSP_8__submit"]
+close:
+    XPATH,//*[@id="TANGRAM__PSP_62__closeBtn"]
+wang:
+    XPATH,//*[@id="s_username_top"]/span
+person:
+    XPATH,//*[@id="s_user_name_menu"]/div/a[2]
+云盘:
+    lINK_TEXT,搜索d
+更多产品:
+    XPATH,//*[@id="u1"]/a[9]
+图片:
+    XPATH,//*[@id="head"]/div/div[4]/div/div[2]/div[1]/div/a[2]/span
+明显入驻:
+    XPATH,//*[@id="wrapper_content_box"]/div[2]/div[1]/div/div[3]/a/div[4]/img
+宠物:
+    XPATH,//*[@id="wrapper_content_box"]/div[2]/div[1]/div/div[2]/a/div[4]/img
+壁纸:
+    XPATH,//*[@id="wrapper_content_box"]/div[2]/div[1]/div/div[5]/a/div[4]/img
+翻页:
+    XPATH,//*[@id="userInfo"]/a[1]
+csdn:
+    XPATH,//*[@id="1"]/h3/a[1]
+登录帐号:
+    XPATH,//*[@id="username"]
+登录密码:
+    XPATH,//*[@id="password"]
+登录登录:
+    XPATH,//*[@id="fm1"]/input[6]
+我的C币:
+    lINK_TEXT,我的C币
+百度百科:
+    XPATH,//*[@id="5"]/h3/a
+children:  
+ - name: Jimmy Smith  
+   age: 15  
+ - name1: Jenny Smith  
+   age1: 12
